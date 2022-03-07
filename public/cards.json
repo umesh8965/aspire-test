@@ -1,0 +1,28 @@
+[{
+	"id":2,
+	"card_name": "Adam zampa",
+	"card_number": "1234-5678-9123-4567",
+	"card_expire_date": "04/2025",
+	"card_ccv": 321
+},
+{
+	"id":6,
+	"card_name": "Zoya Smith",
+	"card_number": "8463-8561-6345-9584",
+	"card_expire_date": "05/2023",
+	"card_ccv": 812
+},
+{
+	"id":3,
+	"card_name": "Lisa Oberoi",
+	"card_number": "1544-3432-87867-0798",
+	"card_expire_date": "08/2022",
+	"card_ccv": 584
+},
+{
+	"id":7,
+	"card_name": "Andrew Scott",
+	"card_number": "4545-9789-1212-9676",
+	"card_expire_date": "06/2022",
+	"card_ccv": 453
+}]

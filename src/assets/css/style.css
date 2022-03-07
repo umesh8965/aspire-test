@@ -1,0 +1,25 @@
+.carousel-caption {
+	position: absolute;
+	right: 0;
+	top:0;
+	left: 0;
+    bottom:0;
+	z-index: 10;
+	padding-top: 0;
+	padding-bottom: 0;
+	color: #fff;
+	text-align: left;
+}
+.carousel-indicators li {
+	width: 8px;
+	height: 8px;
+	background-color: #01D167;
+	border-radius: 100%;
+}
+.carousel-item {
+	height: 440px;
+  }
+  .carousel-indicators {
+margin-bottom: 0;
+bottom:150px;
+}
